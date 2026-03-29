@@ -1,8 +1,8 @@
 # Meysameh Shojaei
 
-**AI Product Manager | IT Engineer | Building AI-powered planning, forecasting, and decision-support products**
+**AI Project Manager | IT Engineer | Building AI-powered planning, forecasting, and decision-support solutions**
 
-I work at the intersection of **AI product management, project planning, and technical delivery**. My background combines **IT engineering, hands-on product development, machine learning experimentation, and workflow design** to build practical, stakeholder-facing AI solutions.
+I work at the intersection of **AI project management, project planning, and technical delivery**. My background combines **IT engineering, hands-on product development, machine learning experimentation, and workflow design** to build practical, stakeholder-facing AI solutions.
 
 My focus is on turning uncertainty into clearer decisions through **AI-powered planning, probabilistic forecasting, and intelligent workflow systems**.
 
@@ -10,9 +10,9 @@ My focus is on turning uncertainty into clearer decisions through **AI-powered p
 
 ## About Me
 
-I am transitioning into **AI Product Management** with hands-on experience across:
+I am transitioning into **AI Project Management** with hands-on experience across:
 
-- AI-powered product design
+- AI-powered solution design
 - project planning and risk forecasting
 - machine learning and model comparison
 - data analysis and insight generation
@@ -26,7 +26,7 @@ Across my bootcamp and project work, I have built solutions that connect **busin
 
 ## Core Focus Areas
 
-- **AI Product Management** — MVP thinking, feature design, roadmap logic, decision-support products
+- **AI Project Management** — AI-enabled planning, workflow design, roadmap thinking, and decision-support solutions
 - **Project Management & Forecasting** — dependency-aware planning, schedule confidence, scenario analysis, risk visibility
 - **Applied AI & Data** — LLM workflows, model experimentation, EDA, probabilistic forecasting, business-facing insights
 
@@ -36,7 +36,7 @@ Across my bootcamp and project work, I have built solutions that connect **busin
 
 ### certAIn — AI-Powered Project Planning & Risk Forecasting Platform
 
-certAIn is my capstone project and the strongest example of how I combine **AI, product thinking, data workflows, and project-management logic** into one end-to-end platform.
+certAIn is my capstone project and the strongest example of how I combine **AI, project thinking, data workflows, and project-management logic** into one end-to-end platform.
 
 It helps move project planning from static timelines toward **AI-assisted, dependency-aware, probabilistic forecasting**.
 
@@ -77,7 +77,7 @@ Project exploring agent-style problem decomposition, AI-assisted reasoning workf
 - ML model comparison and evaluation
 - confusion-matrix analysis and class-imbalance awareness
 - probabilistic forecasting and planning logic
-- Streamlit product development and workflow design
+- Streamlit solution development and workflow design
 - GitHub collaboration, CI/CD awareness, and Docker-based setup
 - end-to-end presentations from concept to implementation
 
@@ -91,7 +91,7 @@ Python, SQL, Markdown, Git, GitHub
 **Data & ML**  
 Pandas, NumPy, scikit-learn, TensorFlow/Keras, model evaluation, EDA, classification workflows
 
-**AI / Product Systems**  
+**AI / Workflow Systems**  
 Streamlit, SQLite, Plotly, NetworkX, Pydantic, Monte Carlo simulation, DAG modeling, LangChain, ChatGroq
 
 **Delivery & Engineering**  
@@ -101,9 +101,9 @@ GitHub Actions, Docker, environment configuration, documentation, repo structuri
 
 ## Professional Background
 
-Before focusing on AI product work, I built experience as an **IT Engineer**, strengthening my ability to work with technical systems, troubleshooting, structured problem solving, cross-functional support, and practical execution under pressure.
+Before focusing on AI project work, I built experience as an **IT Engineer**, strengthening my ability to work with technical systems, troubleshooting, structured problem solving, cross-functional support, and practical execution under pressure.
 
-That background continues to shape how I approach AI product delivery: **grounded, structured, hands-on, and outcome-oriented**.
+That background continues to shape how I approach AI solution delivery: **grounded, structured, hands-on, and outcome-oriented**.
 
 ---
 
@@ -111,9 +111,9 @@ That background continues to shape how I approach AI product delivery: **grounde
 
 I am currently focused on:
 
-- growing into high-impact **AI Product Management** roles
-- building more production-ready AI-enabled products
-- strengthening portfolio work that combines product, AI, and technical execution
+- growing into high-impact **AI Project Management** roles
+- building more production-ready AI-enabled solutions
+- strengthening portfolio work that combines project management, AI, and technical execution
 - developing intelligent planning and decision-support systems
 
 ---
@@ -122,10 +122,10 @@ I am currently focused on:
 
 I am especially interested in opportunities related to:
 
-- AI Product Management
-- Technical Product Management
+- AI Project Management
+- Technical Project Management
 - intelligent workflow systems
 - project planning and forecasting tools
-- LLM-enabled enterprise products
+- LLM-enabled enterprise solutions
 - data-driven decision support
 - AI features that improve real operational workflows
