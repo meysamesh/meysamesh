@@ -8,6 +8,15 @@ My focus is on turning uncertainty into clearer decisions through **AI-powered p
 
 ---
 
+## 🔗 Connect & Explore
+
+- 💼 LinkedIn: https://www.linkedin.com/in/meysamehshojaei/
+- 🌐 Live Product (certAIn): https://certain-project.com  
+- 💻 Source Code (certAIn): https://github.com/meysamesh/certAIn-ai-powered-project-planning-risk-forecasting-app  
+- ✍️ Project Write-ups (Substack): https://meysamesh.substack.com/
+  
+ ---
+ 
 ## About Me
 
 I am transitioning into **AI Project Management** with hands-on experience across:
@@ -51,6 +60,12 @@ It helps move project planning from static timelines toward **AI-assisted, depen
 
 #### Stack
 Python, Streamlit, SQLite, Pydantic, NetworkX, Pandas, NumPy, Plotly, LangChain, ChatGroq, Docker, GitHub Actions
+
+#### 🔗 Explore certAIn
+
+- Live Demo: https://certain-project.com  
+- LinkedIn: https://www.linkedin.com/in/meysamehshojaei/  
+- Project Write-ups (Substack): https://meysamesh.substack.com/
 
 ---
 
